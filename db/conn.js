@@ -63,4 +63,7 @@ const syncAndSeed = () =>{
 
 module.exports = {
     syncAndSeed,
+    Thing,
+    Favorite,
+    User,
 }
